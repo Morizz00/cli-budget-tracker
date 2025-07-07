@@ -23,4 +23,5 @@ func init() {
 	rootCmd.AddCommand(summaryCmd)
 	rootCmd.AddCommand(listCmd)
 	rootCmd.AddCommand(delCmd)
+	rootCmd.AddCommand(expCmd)
 }
