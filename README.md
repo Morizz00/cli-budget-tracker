@@ -43,7 +43,7 @@ Copy code
 ```bash
 git clone https://github.com/your-username/budget-tracker.git
 cd budget-tracker
-2. Run the CLI
+ Run the CLI
 bash
 Copy code
 go run main.go <command> [flags]
